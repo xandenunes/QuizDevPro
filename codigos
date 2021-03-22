@@ -1,0 +1,4 @@
+INICIO DJANGO
+django-admin startproject *nome do pacote central* *diretorio*(ferramentas iniciais pro projeto)ex: django-admin startproject quiz . (o ponto diz que é pra abrir no diretorio que estou dentro)
+python manage.py runserver (para rodar um servidor)
+ctrl + C (cancela o servidor)
